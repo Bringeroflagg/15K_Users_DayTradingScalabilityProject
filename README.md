@@ -7,10 +7,12 @@
 Step 1: docker-compose down -v
 
 Step 2: docker-compose up --build
+
 <hr>
-<h1>**15,000 Users MicroServices Architecture:**</h1>
+<h1>15,000 Users MicroServices Architecture:</h1>
 
 ![image](https://github.com/user-attachments/assets/b4dece2b-85a0-49dc-8364-5129ff8c7532)
+
 <hr>
 <h3>🛠️ Technologies Used</h3>
 <ul>
@@ -63,19 +65,21 @@ Step 2: docker-compose up --build
 
 ![image](https://github.com/user-attachments/assets/189847b2-d76d-4f1d-8f15-26cebe53fbe9)
 
+
 <h1>1 User MicroServices Architecture:</h1>
 
 ![image](https://github.com/user-attachments/assets/fafca5f1-27e8-460e-81c4-3a749c16d90b)
 
 
-<h1>**Jmeter Functionality Tests Screenshot:**</h1>
+<h1>Jmeter Functionality Tests Screenshot:</h1>
 
 ![image](https://github.com/user-attachments/assets/c91e23f2-0b7d-4c42-93c5-c54c5bf3da11)
 
 
-<h1>**Running Docker Containers:**</h1>
+<h1>Running Docker Containers:</h1>
 
-<img width="1512" alt="image" src="https://github.com/user-attachments/assets/b7982143-e7de-42b8-99a9-b535a6d2878a" />
+![image](https://github.com/user-attachments/assets/4b552980-61c4-4b55-85a0-e1fc9019f78a)
+
 
 <h1> Database Schema </h1>
 
@@ -84,6 +88,7 @@ Step 2: docker-compose up --build
 ![image](https://github.com/user-attachments/assets/d69b42e5-83c9-4508-aef1-11a1018c5ddc)
 
 ![image](https://github.com/user-attachments/assets/b984d8cb-a464-4648-af5b-d1229a590e3a)
+
 
 <h1>Front-End:</h1>
 

@@ -2,7 +2,7 @@
   Author: Ayush Mattoo
   <hr>
 </p>
-<h1>Steps to run project:</h1>h1>
+<h1>Steps to run project:</h1>
 
 Step 1: docker-compose down -v
 
@@ -74,16 +74,19 @@ Step 2: docker-compose up --build
 
 
 <h1>**Running Docker Containers:**</h1>
+
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/b7982143-e7de-42b8-99a9-b535a6d2878a" />
 
---- Database Schema ---
+<h1> Database Schema </h1>
 
-<h1>**MongoDB and Redis:**</h1>
+<h3>MongoDB and Redis:</h3>
+
 ![image](https://github.com/user-attachments/assets/d69b42e5-83c9-4508-aef1-11a1018c5ddc)
 
 ![image](https://github.com/user-attachments/assets/b984d8cb-a464-4648-af5b-d1229a590e3a)
 
-<h1>**Front-End:**</h1>
+<h1>Front-End:</h1>
+
 ![image](https://github.com/user-attachments/assets/667b6d8e-4b87-4920-877f-a464cdb37310)
 ![image](https://github.com/user-attachments/assets/665f7cbf-6a94-4ccb-9996-19aa979b27ee)
 

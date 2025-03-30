@@ -2,11 +2,13 @@
   Author: Ayush Mattoo
   <hr>
 </p>
-Steps to run project:
+<h1>Steps to run project:</h1>h1>
+
 Step 1: docker-compose down -v
+
 Step 2: docker-compose up --build
 <hr>
-15,000 Users MicroServices Architecture:
+<h1>**15,000 Users MicroServices Architecture:**</h1>h1>
 
 ![image](https://github.com/user-attachments/assets/b4dece2b-85a0-49dc-8364-5129ff8c7532)
 <hr>
@@ -57,29 +59,29 @@ Step 2: docker-compose up --build
   <li><strong>Concurrency Support</strong> – System is tested and proven to handle 15,000+ concurrent users under real-world conditions.</li>
 </ul>
 <hr>
-10,000 Users MicroServices Architecture:
+<h1>10,000 Users MicroServices Architecture:</h1>
 
 ![image](https://github.com/user-attachments/assets/189847b2-d76d-4f1d-8f15-26cebe53fbe9)
 
-1 User MicroServices Architecture:
+<h1>1 User MicroServices Architecture:</h1>
 ![image](https://github.com/user-attachments/assets/fafca5f1-27e8-460e-81c4-3a749c16d90b)
 
 
-**Jmeter Functionality Tests Screenshot:**
+<h1>**Jmeter Functionality Tests Screenshot:**</h1>
 ![image](https://github.com/user-attachments/assets/c91e23f2-0b7d-4c42-93c5-c54c5bf3da11)
 
 
-**Running Docker Containers:**
+<h1>**Running Docker Containers:**</h1>h1>
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/b7982143-e7de-42b8-99a9-b535a6d2878a" />
 
 --- Database Schema ---
 
-**MongoDB and Redis:**
+<h1>**MongoDB and Redis:**</h1>
 ![image](https://github.com/user-attachments/assets/d69b42e5-83c9-4508-aef1-11a1018c5ddc)
 
 ![image](https://github.com/user-attachments/assets/b984d8cb-a464-4648-af5b-d1229a590e3a)
 
-Front-End:
+<h1>**Front-End:**</h1>
 ![image](https://github.com/user-attachments/assets/667b6d8e-4b87-4920-877f-a464cdb37310)
 ![image](https://github.com/user-attachments/assets/665f7cbf-6a94-4ccb-9996-19aa979b27ee)
 

@@ -20,7 +20,7 @@ services:
             - order_service1
             - order_service2
             - order_service3
-            # - order_service4
+            - order_service4
             # - order_service5
             # - order_service6
             # - order_service7

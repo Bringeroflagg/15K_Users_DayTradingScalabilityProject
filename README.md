@@ -3,9 +3,7 @@
   <hr>
 </p>
 Steps to run project:
-
 Step 1: docker-compose down -v
-
 Step 2: docker-compose up --build
 <hr>
 15,000 Users MicroServices Architecture:
@@ -53,7 +51,6 @@ Step 2: docker-compose up --build
   <li><strong>Performance Optimizations:</strong>
     <ul>
       <li>Caching with Redis for rapid wallet access.</li>
-      <li>Database Sharding & Replication in MongoDB for horizontal scaling and redundancy.</li>
       <li>Load Balancing with Nginx to distribute traffic across service instances.</li>
     </ul>
   </li>
